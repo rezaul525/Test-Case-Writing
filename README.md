@@ -1,7 +1,7 @@
 # Test-Case-Writing
 1. Installation Instructions:
 Verify that the installation instructions are clear and concise.
-Test the installation process on different operating systems (e.g., Windows, macOS, Linux).
+Test the installation process on different operating systems (e.g., Windows, macOS).
 2. Dependencies:
 Confirm that all dependencies are clearly listed.
 Check if the installation instructions handle dependency installation or provide a link to the necessary resources.
